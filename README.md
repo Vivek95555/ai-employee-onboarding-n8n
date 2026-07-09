@@ -387,4 +387,3 @@ Gmail (send welcome email to employee)
 
 **Vivek Solanki**
 AI/ML Student — Charotar University of Science and Technology
-[LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourprofile)
