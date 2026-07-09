@@ -90,7 +90,8 @@ System detects employee department and creates relevant tasks automatically:
 
 ## 📸 Screenshots
 
-> Add workflow screenshots here
+<img width="839" height="154" alt="image" src="https://github.com/user-attachments/assets/91a3dcca-1562-45f2-8a53-13717c740eef" />
+
 
 ---
 
